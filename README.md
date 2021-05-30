@@ -7,7 +7,7 @@ Java desktop application that track loans
 
 # Images 
 
-The images containts non real users!
+The images containts non real user information!
 
 ![1](./imgs/1.png)
 ![2](./imgs/2.png)
