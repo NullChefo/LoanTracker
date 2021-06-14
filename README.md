@@ -11,7 +11,8 @@ You can recreate the database by using DataBase.txt in  /LoanDesktopApplication/
 
 
 # Database Schema
-![LoanTracker Database Schema Diagram](./docs/LoanTrackerDatabaseSchemaDiagram.png)
+![LoanTracker Database Schema Diagram]
+(./img/0.png)
 
 # Images 
 
