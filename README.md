@@ -17,7 +17,7 @@ You can recreate the database by using DataBase.txt in  /LoanDesktopApplication/
 
 The images containts non real user information!
 
-![1](./imgs/1.png)
-![2](./imgs/2.png)
-![3](./imgs/3.png)
-![4](./imgs/4.png)
+![1](./img/1.png)
+![2](./img/2.png)
+![3](./img/3.png)
+![4](./img/4.png)
